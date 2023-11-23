@@ -4,13 +4,13 @@
 
 linux： 
 
-git clone https://github.com/eorendel/clash-dashboard.git  /etc/clash-dashboard
+git clone https://github.com/lywnko/clash-dashboard.git  /etc/clash-dashboard
 
 修改配置文件config.yaml中相应字段为 external-ui: /etc/clash-dashboard
 
 windows：
 
-https://github.com/eorendel/clash-dashboard/archive/refs/heads/main.zip
+https://github.com/lywnko/clash-dashboard/archive/refs/heads/main.zip
 
 下载解压到如d:\clash\clash-dashboard
 
